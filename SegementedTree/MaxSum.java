@@ -30,10 +30,6 @@ public class Main {
             this.sum = sum;
         }
  
-//        @Override
-//        public String toString() {
-//            return this.min + " " + this.count;
-//        }
     }
  
     static class NaiveSegmentedTree {
